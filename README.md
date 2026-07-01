@@ -1,9 +1,31 @@
 # Merkevaren Utekos 
 
+## Fargepalett
+
+Dette repoet består av tre utvidede fargepaletter som skal vurderes før beslutning om valg av offisielle retning for merkevaren Utekos sin fargebruk på alle kommunikasjonsflater.
+
 > Utekos® er en norsk merkevare som består av en kolleksjon med kompromissløs utendørs komfort. Produktene er bygget for å forlenge gode øyeblikk på terrasse, hytte, båt, bobil og i kaldt vær, med tydelig fokus på varme, fleksibilite og  materialkvalitet.
 
 Utekos bygger produkter for utendørs komfort i nordiske forhold. Kjerneidéen er å gi brukeren kontroll over egen varme og mobilitet gjennom materialvalg, funksjonelle detaljer og tydelige bruksscenarier. Hovedlinjen består av tre Utekos-modeller med 3-i-1-konstruksjon, i tillegg til Comfyrobe™ som et værbeskyttende plagg for før og etter aktivitet, og tilbehør som Buff™ og Stapper™.
 
+## Målgruppen og kunder
+
+- Komfortsøkende
+- Sosiale
+- Kvalitetsbevisste. 
+
+De er "livsnytere" som verdsetter planlagte og trygge opplevelser, som en helg på hytten, en tur med bobilen eller sosiale lag utendørs. De ønsker å forlenge den gode stunden utendørs uten å fryse. Søker varme, komfort og en forsterkning av den sosiale hyggen. 
+
+**Eventyrlystne** assosieres ofte med høy puls, fysisk krevende turer, telt i stormen og generelt et visst nivå av "strev". 
+- Dette er i direkte motsetning til kjerneproduktet vårt, som handler om komfort, hvile og avslapning.
+
+**Opplevelsesorientert** er et mye mer treffsikkert ord for vår primærgruppe. 
+- Det handler om å oppleve nye steder med bobilen, oppleve en fin solnedgang fra hytta, eller oppleve et godt måltid utendørs.
+- Det er positivt ladet, men uten assosiasjoner til ubehag.
+
+Utekos tar bevisst avstand fra å kommunisere prestasjon og ytelse. Vi kommuniserer og signaliserer utelukkende komfort, varme og velvære. 
+
+---
 
 ## Produkter
 
